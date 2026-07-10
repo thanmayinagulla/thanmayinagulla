@@ -32,8 +32,6 @@
 
 🗄 SQL
 
-📈 R (Basics)
-
 ---
 
 ### Data Analytics
