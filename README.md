@@ -1,16 +1,16 @@
-# 👋 Hello, I'm Thanmayi Nagulla
-
 <div align="center">
 
-# 📊 Aspiring Data Scientist • 📈 Aspiring Data Analyst • 🤖 Machine Learning Enthusiast
+# 👋 Hi, I'm Thanmayi Nagulla
 
-### **Transforming Data into Insights | Insights into Decisions | Decisions into Impact**
+### **📊 Aspiring Data Scientist | 📈 Aspiring Data Analyst | 🤖 Machine Learning Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Data+Scientist;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Data+Analysis+%7C+Machine+Learning;Turning+Data+Into+Meaningful+Insights;Always+Learning+%E2%80%A2+Always+Building+%E2%80%A2+Always+Growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Python+Developer;Turning+Data+Into+Meaningful+Insights" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=thanmayinagul&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=thanmayinagul&style=for-the-badge&color=blue" />
 </p>
+
+*"Transforming raw data into meaningful insights and building intelligent solutions through data."*
 
 </div>
 
@@ -20,146 +20,125 @@
 
 🎓 **B.Tech in Computer Science & Engineering (Data Science)**
 
-I am passionate about uncovering meaningful insights from data and solving real-world problems through **Data Science, Data Analytics, and Machine Learning**.
+I'm passionate about **Data Science**, **Data Analytics**, and **Machine Learning**, with a strong interest in solving real-world problems using data.
 
-I enjoy every stage of the data science lifecycle—from collecting and cleaning data to exploratory data analysis, feature engineering, predictive modeling, and creating interactive dashboards that support data-driven decision-making.
-
-I believe that **every dataset tells a story**, and my goal is to transform raw data into meaningful insights that create real-world impact.
+I enjoy working across the complete data lifecycle—from data collection and cleaning to analysis, visualization, predictive modeling, and deployment. Every project is an opportunity to learn, improve, and create meaningful impact through data-driven solutions.
 
 ---
 
-# 🎯 What I'm Currently Working On
+# 🎯 Current Focus
 
-* 📊 Data Analysis & Visualization
-* 🤖 Machine Learning Projects
-* 🐍 Python Programming
-* 🗄 SQL for Data Analytics
-* 📈 Power BI Dashboards
-* 📉 Tableau Visualizations
-* ☁ Google Cloud Skills
-* 📚 Statistics & Predictive Analytics
-
----
-
-# 💡 Areas of Interest
-
-* 📊 Data Science
-* 📈 Data Analytics
+* 📊 Data Analysis
+* 📈 Data Visualization
 * 🤖 Machine Learning
-* 📉 Data Visualization
-* 📚 Statistics
-* 📊 Business Intelligence
-* 🔍 Exploratory Data Analysis (EDA)
-* 📈 Predictive Analytics
-* 🧠 Artificial Intelligence
+* 🐍 Python Development
+* 🗄 SQL
+* 📉 Power BI
+* 📊 Tableau
+* ☁ Google Cloud Fundamentals
 
 ---
 
-# 🌱 Currently Learning
+# 🛠 Tech Stack
 
-* Advanced Python
-* SQL Optimization
-* Machine Learning Algorithms
-* Feature Engineering
-* Power BI
-* Tableau
-* Google Cloud Fundamentals
-* Data Storytelling
-
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=python,c,css,excel,powerbi,Tableau"/>
 </p>
 
-### 📊 Data Science & Machine Learning
+### Data Science & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-* Scikit-Learn
+**Libraries & Frameworks**
+
 * Pandas
 * NumPy
+* Scikit-Learn
 * Matplotlib
 * XGBoost
+* Streamlit
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
 </p>
 
-### 🛠 Tools & Platforms
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
 </p>
 
-**Also Familiar With**
+**Other Tools**
 
-* Streamlit
-* Jupyter Notebook
-* Google Colab
 * Power BI
 * Tableau
 * Excel
+* Google Colab
+* Jupyter Notebook
 
 ---
 
-# 🚀 Featured Projects
+# 🚀Projects
 
 ### ❤️ Heart Disease Risk Prediction
 
-* Machine Learning Classification
-* Streamlit Web Application
-* Health Risk Prediction
-* PDF Report Generation
+A Machine Learning application that predicts the likelihood of heart disease based on patient health parameters.
 
-**Tech:** Python • Scikit-Learn • Streamlit • Pandas
+**Highlights**
+
+* Machine Learning Classification
+* Streamlit Web App
+* Health Risk Report
+* PDF Report Generation
 
 ---
 
 ### 📧 Fake Email Detection
 
-* Fake vs Real Email Classification
-* Confidence Score Prediction
-* JSON Response Generation
-* Machine Learning-Based Detection
+A machine learning model that classifies emails as **Real** or **Fake** using email content analysis.
 
-**Tech:** Python • Scikit-Learn
+**Highlights**
+
+* Binary Classification
+* Confidence Score
+* JSON Output
+* Email Security
 
 ---
 
 ### ⚡ Electricity Bill Prediction
 
-* Electricity Cost Prediction
-* Regression Models
-* Data Analysis
-* Interactive Streamlit Interface
+A regression-based application that predicts electricity bills from consumption data.
 
-**Tech:** Python • XGBoost • Random Forest • Extra Trees
+**Highlights**
+
+* Data Analysis
+* Feature Engineering
+* Regression Models
+* Streamlit Deployment
 
 ---
 
 ### 🤖 AI Automation Workflows
 
-* AI Agent Workflows
-* n8n Automation
-* Workflow Integration
-* Productivity Automation
+Automation workflows using **n8n** and AI integrations to streamline repetitive tasks.
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=thanmayinagul&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thanmayinagul&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -167,7 +146,9 @@ I believe that **every dataset tells a story**, and my goal is to transform raw 
 # 💻 Most Used Languages
 
 <p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanmayinagul&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -175,36 +156,47 @@ I believe that **every dataset tells a story**, and my goal is to transform raw 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thanmayinagul&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=thanmayinagul&theme=tokyonight&no-frame=true&margin-w=15"/>
+
 </p>
+
+---
+
+# 🌱 Currently Learning
+
+*  Machine Learning
+* Data Storytelling
+* Feature Engineering
+* Statistics for Data Science
+* SQL Optimization
+* Power BI Dashboards
+* Tableau
+
 
 ---
 
 # 🎯 Career Goal
 
-My goal is to become a **Data Scientist** and **Data Analyst** who transforms complex datasets into meaningful insights, builds intelligent predictive models, and enables organizations to make confident, data-driven decisions.
+To build a career as a **Data Scientist** and **Data Analyst**, leveraging data, analytics, and machine learning to solve real-world business problems and support data-driven decision-making.
 
 ---
 
-# 💭 My Philosophy
-
-> **"Data is more than numbers—it represents people, patterns, and possibilities. My mission is to transform those possibilities into impactful decisions."**
-
----
-
-# 🌐 Let's Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:thanmayinagulla@gmail.com">
 📧 Email
 </a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/thanmayin-943717331/">
+  •  
+
+<a href="https://www.linkedin.com/in/thanmayin-943717331">
 💼 LinkedIn
 </a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+
+  •  
 
 <a href="https://github.com/thanmayinagul">
 🐙 GitHub
@@ -214,27 +206,18 @@ My goal is to become a **Data Scientist** and **Data Analyst** who transforms co
 
 ---
 
-# 🤝 Open to Collaborate
+# 💬 Quote
 
-✨ I'm always open to collaborating on:
-
-* 📊 Data Science Projects
-* 📈 Data Analytics
-* 🤖 Machine Learning Applications
-* 📉 Dashboard Development
-* 🐍 Python Projects
-* 🌍 Open Source Contributions
+> **"Data is not just numbers—it tells stories, reveals patterns, and drives better decisions. My goal is to turn those insights into meaningful impact."**
 
 ---
 
 <div align="center">
 
-## ⭐ Turning Data into Insights.
+### ⭐ Thanks for visiting my GitHub Profile!
 
-## 📈 Transforming Insights into Impact.
+**📊 Analyze • 📈 Visualize • 🤖 Predict • 🚀 Innovate**
 
-## 🚀 Continuously Learning, Building, and Growing.
-
-### **Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.**
+*"Learning never stops, and every project is a step toward becoming a better Data Scientist."*
 
 </div>
