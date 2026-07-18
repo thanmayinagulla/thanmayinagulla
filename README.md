@@ -1,60 +1,52 @@
 <div align="center">
 
-# 👋 Hi, I'm Thanmayi Nagulla
+# Hi 👋, I'm Thanmayi Nagulla
 
-### 📊 Aspiring Data Scientist | 📈 Aspiring Data Analyst | 🤖 Machine Learning Enthusiast
+### **Aspiring Data Scientist | Aspiring Data Analyst**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Aspiring+Data+Scientist;Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Data+Analytics;Learning+by+Building+Real+Projects" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=thanmayinagul&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
-</p>
-
-### **"Transforming Data into Insights, and Insights into Better Decisions."**
+*"Passionate about transforming data into meaningful insights through analytics and machine learning."*
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 👩‍💻 About Me
 
-🎓 I'm pursuing a **B.Tech in Computer Science & Engineering (Data Science)**.
+🎓 I'm a **B.Tech Computer Science (Data Science)** student with a strong interest in **Data Science**, **Data Analytics**, and **Machine Learning**.
 
-I'm passionate about using data to solve real-world problems through **Data Analytics**, **Machine Learning**, and **Data Visualization**. I enjoy exploring datasets, uncovering meaningful patterns, building predictive models, and presenting insights that support informed decision-making.
-
-I believe continuous learning and hands-on projects are the best ways to grow as a data professional, so I'm always working on improving my analytical and technical skills.
+I enjoy exploring data, identifying meaningful patterns, building predictive models, and creating practical solutions to real-world problems. My goal is to continuously improve my analytical skills by working on projects that demonstrate the complete data science workflow—from data preprocessing and visualization to model development and evaluation.
 
 ---
 
-# 💼 What I Do
+## 🚀 What I'm Working On
 
-* 📊 Analyze and visualize data
-* 🤖 Build Machine Learning models
-* 🧹 Clean and prepare datasets
-* 📈 Perform Exploratory Data Analysis (EDA)
-* 📉 Create dashboards and reports
-* 💡 Extract insights to support data-driven decisions
+* 📊 Data Analysis & Visualization
+* 🤖 Machine Learning Projects
+* 🐍 Python Programming
+* 📈 Exploratory Data Analysis (EDA)
+* 🧹 Data Cleaning & Feature Engineering
+* 📉 Building Interactive Streamlit Applications
 
 ---
 
-# 🛠 Skills & Technologies
+## 🛠 Technical Skills
 
-### 👨‍💻 Programming
+### Programming
 
 * Python
 * SQL
 
-### 📊 Data Science & Analytics
+### Data Science
 
 * Data Analysis
 * Exploratory Data Analysis (EDA)
 * Data Cleaning
 * Data Visualization
-* Feature Engineering
 * Machine Learning
-* Predictive Analytics
+* Feature Engineering
+* Predictive Modeling
 
-### 📚 Libraries
+### Libraries
 
 * Pandas
 * NumPy
@@ -62,65 +54,43 @@ I believe continuous learning and hands-on projects are the best ways to grow as
 * Scikit-learn
 * Streamlit
 
-### 📈 Business Intelligence
-
-* Microsoft Excel
-* Power BI *(Learning)*
-* Tableau *(Learning)*
-
-### 🛠 Tools
+### Tools
 
 * Jupyter Notebook
 * Google Colab
-* Git
-* GitHub
+* Git & GitHub
 * VS Code
+* Microsoft Excel
 
 ---
 
-# 🚀 Featured Projects
+## 📂 Featured Projects
 
-## ❤️ Heart Disease Risk Prediction
+### ❤️ Heart Disease Risk Prediction
 
-A machine learning application that predicts the likelihood of heart disease based on patient health information.
+Machine learning application that predicts heart disease risk using patient health data with an interactive Streamlit interface.
 
-**Highlights**
-
-* Data Preprocessing
-* Feature Engineering
-* Machine Learning Classification
-* Streamlit Web Application
-* Health Risk Prediction
+**Tech Stack:** Python, Pandas, Scikit-learn, Streamlit
 
 ---
 
-## 📧 Fake Email Detection
+### 📧 Fake Email Detection
 
-A machine learning project that classifies emails as **Real** or **Fake**.
+A machine learning model that classifies emails as **Real** or **Fake** to support email security.
 
-**Highlights**
-
-* Email Classification
-* Confidence Prediction
-* JSON Response
-* Machine Learning
+**Tech Stack:** n8n
 
 ---
 
-## ⚡ Electricity Bill Prediction
+### ⚡ Electricity Bill Prediction
 
-A regression model that estimates electricity bills based on electricity consumption.
+Regression-based machine learning project for estimating electricity bills using historical consumption data.
 
-**Highlights**
-
-* Regression Algorithms
-* Data Analysis
-* Model Evaluation
-* Streamlit Deployment
+**Tech Stack:** Python, Pandas, XGBoost, Streamlit
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 * Advanced Python
 * SQL for Data Analytics
@@ -128,75 +98,23 @@ A regression model that estimates electricity bills based on electricity consump
 * Machine Learning
 * Power BI
 * Tableau
-* Data Storytelling
 
 ---
 
-# 📈 GitHub Statistics
+## 🎯 Career Objective
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=thanmayinagul&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thanmayinagul&theme=tokyonight&hide_border=true"/>
-
-</p>
+To build a career as a **Data Scientist** and **Data Analyst**, applying analytical thinking, statistical methods, and machine learning to solve real-world business problems and deliver actionable insights through data.
 
 ---
 
-# 💻 Most Used Languages
+## 📫 Connect With Me
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanmayinagul&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+* 📧 **Email:** [thanmayinagulla@gmail.com](mailto:thanmayinagulla@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/thanmayin-943717331
+* 🐙 **GitHub:** https://github.com/thanmayinagul
 
 ---
 
-# 🎯 Career Goal
+## 💬 Quote
 
-My goal is to build a career as a **Data Scientist** and **Data Analyst**, using data, statistics, and machine learning to solve business challenges, discover valuable insights, and support better decision-making.
-
----
-
-# 🌐 Let's Connect
-
-<p align="center">
-
-<a href="mailto:thanmayinagulla@gmail.com">
-📧 Email
-</a>
-
-  •  
-
-<a href="https://www.linkedin.com/in/thanmayin-943717331">
-💼 LinkedIn
-</a>
-
-  •  
-
-<a href="https://github.com/thanmayinagul">
-🐙 GitHub
-</a>
-
-</p>
-
----
-
-# 💬 Favorite Quote
-
-> **"Without data, you're just another person with an opinion."**
-> — *W. Edwards Deming*
-
----
-
-<div align="center">
-
-## ⭐ Thank you for visiting my GitHub Profile!
-
-### **Learning • Building • Analyzing • Growing**
-
-*"Every dataset has a story. My goal is to discover it and turn it into meaningful impact."*
-
-</div>
+> **"Data is more than numbers—it tells stories, uncovers opportunities, and drives better decisions."**
